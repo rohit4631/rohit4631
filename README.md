@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Rohit
 
-<!--
-**rohit4631/rohit4631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Building scalable & modern mobile applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 📱 Flutter Developer focused on clean architecture
+- ⚡ Passionate about performance & UI/UX
+- 🧠 Working with Riverpod & scalable state management
+- 🎯 Building production-ready apps
+
+---
+
+## 🛠 Tech Stack
+- Flutter / Dart
+- Riverpod
+- Firebase
+- REST APIs
+- Clean Architecture
+
+---
+
+## 📦 Featured Projects
+- 🔹 field_pro_kit → Advanced reusable Flutter input field package
+- 🔹 E-commerce UI → Modern responsive UI design
+
+---
+
+## 📫 Contact
+- Email: kr5273860@gmail.com
